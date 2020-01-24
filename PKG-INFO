@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: WebOb
-Version: 1.8.5
+Version: 1.8.5.altair
 Summary: WSGI request and response object
 Home-page: http://webob.org/
 Author: Ian Bicking
