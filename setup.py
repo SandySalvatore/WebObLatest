@@ -25,7 +25,7 @@ docs_extras = [
 
 setup(
     name='WebOb',
-    version='1.8.5.altair',
+    version='1.8.5.1.1',
     description="WSGI request and response object",
     long_description=README + '\n\n' + CHANGES,
     classifiers=[
